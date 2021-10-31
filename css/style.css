@@ -1,0 +1,7 @@
+body {
+    background-color: antiquewhite;
+}
+.card:hover {
+    filter: brightness(95%);
+    color: black;
+}
